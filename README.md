@@ -1,2 +1,3 @@
 # JavaWebProgramming
-Java Web Programming
+
+This repository includes the work I did in Gazi University Computer Engineering Department Web Programming course.
